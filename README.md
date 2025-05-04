@@ -16,10 +16,9 @@ To build an executive-level **Power BI dashboard** that enables stakeholders to:
 
 ## 🧰 Tools & Technologies
 
-- Python / Mysql for Data Cleaning 
-- Power BI (Desktop)
+- Python & Mysql for Data Cleaning 
+- Power BI 
 - Power Query & DAX
-- Segoe UI / Calibri Fonts
 - Light Beige Theme with Brown/Gold Accents
 
 ---
