@@ -4,6 +4,12 @@ An **interactive Power BI dashboard** designed for **inventory optimization** in
 
 ---
 
+After building out the core analysis in Python and SQL earlier –
+Check out Part 1 of the project here → https://lnkd.in/e2EHrgq3    
+I'm now thrilled to present the final installment – a complete Power BI Dashboard for Inventory Optimization in Retail 
+
+---
+
 ## 🎯 Objective
 
 To build an executive-level **Power BI dashboard** that enables stakeholders to:
